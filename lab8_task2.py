@@ -1,23 +1,7 @@
-#!/usr/bin/env python
 
-"""
-002_display_fps_pretty.py
-
-Display framerate and playtime.
-Works with Python 2.7 and 3.3+.
-
-URL:     http://thepythongamebook.com/en:part2:pygame:step002
-Author:  yipyip
-License: Do What The Fuck You Want To Public License (WTFPL)
-         See http://sam.zoy.org/wtfpl/
-"""
-
-####
 
 import pygame
 
-
-####
 
 class PygView(object):
 
